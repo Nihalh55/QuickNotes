@@ -16,18 +16,6 @@ You can view the keylogs for now in `/var/log/skeylogger.log`
 ### Note
 We are using C++ for drawing and rendring the texts (notes) on the desktop and we have a couple of methods (low level and the high level) to render them beneath the desktop icons. We have to cover them into the rectangular boxes. We will focus on Qt for that.
 
-## Instructions 
-
-1. Upload the Arduino program present inside the same directory with the correct modifications if required.
-
-2. Install LAMP or WAMP server and put all the files under the 'Server' directory in`var/www/html` or `C:\wwww` directory after the correct modifications if required.
-
-3. Connect the system and the other mobile devices to the same wifi network.
-
-4. Run the Python script first either by `sudo python2 script.py` or cmd -> run as administrator -> `python2 script.py` after changing to the script's directory.
-
-5. Make sure your board is connected via USB. You can also open the Arduino IDE's serial monitor for debugging.
-
 ## Further Milestone
 1. Hyperlink function
 2. Synchronization using email or evernote api
