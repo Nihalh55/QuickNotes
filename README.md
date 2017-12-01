@@ -1,4 +1,4 @@
-# `01 Dec 2017 03:16 PM IST` : The codebase is under maintenance as some intial changes have to be made in the codebase and the updated installation and the basic usage guide for the contributors is to be changed accordingly. Make sure to re-visit the issues and the code in 5 hours.
+# `01 Dec 2017 08:26 PM IST` : The codebase is under maintenance as some intial changes have to be made in the codebase and the updated installation and the basic usage guide for the contributors is to be changed accordingly. Make sure to re-visit the issues and the code after 4 hours.
 
 ## For KWoC students, reach to me at the communication channel given [here] 
 ## Background
