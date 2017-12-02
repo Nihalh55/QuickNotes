@@ -1,4 +1,4 @@
-# `01 Dec 2017 08:26 PM IST` : The codebase is under maintenance as some intial changes have to be made in the codebase and the updated installation and the basic usage guide for the contributors is to be changed accordingly. Make sure to re-visit the issues and the code after 4 hours.
+# `02 Dec 2017 03:26 AM IST` : The internet services will remain close in my area for a day due to some security reasons. The codebase is under the maintenance and sorry for the inconvenience.
 
 ## For KWoC students, reach to me at the communication channel given [here] 
 ## Background
